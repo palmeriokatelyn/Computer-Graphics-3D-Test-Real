@@ -1,2 +1,3 @@
 # Computer-Graphics-3D-Test
 
+In class, I attempted the Multi UV and Reflection shaders. I was able to succeed with them after some trial and error with fixing some mistakes I had made when copying down the scripts. The main issue I had was with rushing too fast through the scripts, so I ended up making tiny mistakes in copying the information down which resulted in making errors that took a while to fix due to needing to re-look at every little detail to ensure it was done correctly. I did well once the issues were identified, and I was able to get the shaders working with little issue afterwards. In the future, I'm going to make sure I'm extra thorough with writing the code so that I catch all the little mistakes ahead of time before they become issues.
